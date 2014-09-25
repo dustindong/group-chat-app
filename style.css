@@ -204,7 +204,7 @@ background: #ccc;
   border: 1px solid blue;
 }
 #search input[type="text"] {
-  width:130px;
+  width:250px;
   padding:8px 30px 8px 8px;
   background:#fff;
   border:1px solid #207cca;
@@ -237,5 +237,5 @@ background: #ccc;
 
 .search-box {
   position: relative;
-  left: 137px;
+  left: 17px;
 }
