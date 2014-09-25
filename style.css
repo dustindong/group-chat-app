@@ -27,7 +27,7 @@ margin:0;
 padding:0;
 list-style:none;
 text-align:left;
-word-spacing: 20px;
+word-spacing: 40px;
 margin-right: 40px;
 }
 
@@ -204,7 +204,7 @@ background: #ccc;
   border: 1px solid blue;
 }
 #search input[type="text"] {
-  width:150px;
+  width:130px;
   padding:8px 30px 8px 8px;
   background:#fff;
   border:1px solid #207cca;
@@ -233,4 +233,9 @@ background: #ccc;
 
 .main-user {
   color: #95A5A6;
+}
+
+.search-box {
+  position: relative;
+  left: 390px;
 }
