@@ -245,3 +245,7 @@ background: #ccc;
   height: 50px;
   vertical-align: middle;
 }
+
+.mention {
+  color: #1E8BC3;
+}
